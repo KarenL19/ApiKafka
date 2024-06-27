@@ -11,7 +11,7 @@ import java.util.List;
 
 @FeignClient(
         name = "car-server-sales",
-        url = "http://localhost:8080/server",
+        url = "http://localhost:8080/",
        decode404 = true
 )
 

@@ -14,7 +14,7 @@ public class CarPostDTO { //Data Transfer Object
 
     private String model;
     private String brand;
-    private String price;
+    private Double price;
     private String description;
     private String engineVersion;
     private String city;
